@@ -15,7 +15,7 @@ All-Stars version (SNES) is not allowed
 *Game switch and load times are <ins>excluded</ins> from the final time.*  
 Use the timing indication below to remove all load times and game switch and submit it in the **without loads**. If you're unsure, put the total time in **with loads** and moderators will retime the run.
 
-We allow a maximum of 1 minute between games. All exceeding time will be part of your final time.
+We allow a maximum of 2 minutes between games. All exceeding time will be part of your final time.
 
 - **Super Mario Bros.**: Time begins on the frame "400" appears in the top right corner after selecting 1 player. Time ends on the frame all sprites are invisible after touching the axe in 8-4.
 
