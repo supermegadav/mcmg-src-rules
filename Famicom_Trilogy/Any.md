@@ -8,14 +8,14 @@ SMB3J (Any% No Wrong Warp)
 
 ## Versions
 
-Japanese version must be used for all games  
+Japanese version must be used for SMB2J and SMB3. You can use NA or JAP for SMB1 since there is no differences between versions  
 NES repro cart and .nes files are not allowed for SMB2J  
 All-Stars version (SNES) is not allowed  
 
 ## Timing
 
-*Game switch and load times are <ins>excluded</ins> from the final time.*  
-Use the timing indication below to remove all load times and game switch and submit it in the **without loads**. If you're unsure, put the total time in **with loads** and moderators will retime the run.
+*Game switch and load times are <ins>excluded</ins> from the final time.
+Use the timing indication below to remove all load times, game switch and to add all individual games to your final time. If you're unsure, put the total time in **with loads** and moderators will retime the run. You must submit both *without loads* and *with loads*.
 
 We allow a maximum of 2 minutes between games. All exceeding time will be part of your final time.
 

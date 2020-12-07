@@ -16,7 +16,7 @@ SMW2: Yoshi's Island (Warpless, resetting allowed)
 ## Versions
 
 NES repro cart and .nes files are not allowed for SMB2J.  
-SGB1 is allowed for SML1 and SML2J.  
+SGB1 is allowed for SML1 and SML2.  
 You can use the Japanese version for SMAS, SMW and SMW2.  
 Soft resets in Yoshi's Island are allowed.  
 You must start from new files in SML2, SMAS, SMW, and SMW2  
@@ -24,8 +24,8 @@ The "alt fast" Vs. SMB1 timer speed is allowed.
 
 ## Timing
 
-*Game switch and load times are <ins>excluded</ins> from the final time.*  
-Use the timing indication below to remove all load times and game switch and submit it in the **without loads**. If you're unsure, put the total time in **with loads** and moderators will retime the run.
+*Game switch and load times are <ins>excluded</ins> from the final time.
+Use the timing indication below to remove all load times, game switch and to add all individual games to your final time. If you're unsure, put the total time in **with loads** and moderators will retime the run. You must submit both *without loads* and *with loads*.
 
 There is no time limit between games.
 

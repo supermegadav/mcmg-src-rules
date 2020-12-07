@@ -20,5 +20,6 @@ If you do not see a specific platform on this list, then it is not permitted.
 
 ## Other rules
 
+All individual runs in the *without loads* categories will be summed up to the second, not to the frame.
 All submissions regardless of time require a video.  
 Boot up, console switch and load times must be shown in the video.
